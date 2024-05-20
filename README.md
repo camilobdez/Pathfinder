@@ -33,8 +33,8 @@ This project aims to provide the shortest and safest path between any two points
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/shortest-safest-path-finder.git
-    cd shortest-safest-path-finder
+    git clone https://github.com/camilobdez/pathfinder.git
+    cd parthfinder
     ```
 2. Install the required libraries:
     ```sh
