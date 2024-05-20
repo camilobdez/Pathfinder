@@ -34,7 +34,7 @@ This project aims to provide the shortest and safest path between any two points
 1. Clone the repository:
     ```sh
     git clone https://github.com/camilobdez/pathfinder.git
-    cd parthfinder
+    cd pathfinder
     ```
 2. Install the required libraries:
     ```sh
@@ -46,18 +46,13 @@ This project aims to provide the shortest and safest path between any two points
     ```
 4. Input the coordinates of the start and end points when prompted.
 
-### Example
-To find the shortest and safest path between EAFIT University and the National University:
-1. Ensure the data file `calles_de_medellin_con_acoso.csv` is in place.
-2. Execute the script and input the respective coordinates when asked.
-
-### Results
-
-#### Visualization
+## Example
+Shortest and safest path between EAFIT and UNAL.
+### Visualization
 
 ![(3 paths) (-75 6298634, 6 3033556)_to_(-75 5780337, 6 1828054)](https://github.com/camilobdez/pathfinder/assets/121780547/6ada00ee-0b61-462e-b4a0-bf52de6ca8bb)
 
-#### Comparison
+### Comparison
 
 | Origin | Destination | Distance (meters) | Risk |
 |--------|-------------|--------------------|------|
