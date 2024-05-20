@@ -84,3 +84,11 @@ The project demonstrates a practical approach to finding the shortest and safest
 - Techie Delight. (2022). Shortest path in a maze – Lee Algorithm. Techie Delight.
 - Pencil Programmer. (2022). Shortest Path in Maze using Backtracking. Pencil Programmer.
 - Li, J. and Han, X. (2019). Revised Pulse Algorithm for Elementary Shortest Path Problem with Resource Constraints. Seventh International Symposium on Computing and Networking.
+
+## Acknowledgements
+This project was created for our course of algorithms and data structures and includes contributions from various open-source libraries.
+
+## Collaborators
+
+- Camilo Bermúdez
+- Luis Baena
