@@ -30,7 +30,7 @@ This project aims to provide the shortest and safest path between any two points
 - Python 3.x
 - Required libraries: `networkx`, `matplotlib`, `geopandas`, `osmnx`
 
-### Installation
+### Installation and Running
 1. Clone the repository:
     ```sh
     git clone https://github.com/camilobdez/pathfinder.git
@@ -40,14 +40,11 @@ This project aims to provide the shortest and safest path between any two points
     ```sh
     pip install -r requirements.txt
     ```
-
-### Running the Project
-1. Prepare the dataset and place it in the appropriate directory.
-2. Run the main script:
-    ```sh
+3. Run the main script:
+   ```sh
     python main.py
     ```
-3. Input the coordinates of the start and end points when prompted.
+4. Input the coordinates of the start and end points when prompted.
 
 ### Example
 To find the shortest and safest path between EAFIT University and the National University:
@@ -55,21 +52,22 @@ To find the shortest and safest path between EAFIT University and the National U
 2. Execute the script and input the respective coordinates when asked.
 
 ### Results
-The algorithm outputs three potential paths:
-1. **Path 1**: Prioritizes safety, may be longer.
-2. **Path 2**: Balances between safety and distance.
-3. **Path 3**: Shortest distance, moderate safety.
 
-### Sample Output
+#### Visualization
+
+![(3 paths) (-75 6298634, 6 3033556)_to_(-75 5780337, 6 1828054)](https://github.com/camilobdez/pathfinder/assets/121780547/6ada00ee-0b61-462e-b4a0-bf52de6ca8bb)
+
+#### Comparison
+
 | Origin | Destination | Distance (meters) | Risk |
 |--------|-------------|--------------------|------|
 | EAFIT  | UNAL        | 9832               | 0.572|
 | EAFIT  | UNAL        | 9401.977           | 0.639|
 | EAFIT  | UNAL        | 9353.253           | 0.704|
 
-
-### Visualization
-![(3 paths) (-75 6298634, 6 3033556)_to_(-75 5780337, 6 1828054)](https://github.com/camilobdez/pathfinder/assets/121780547/6ada00ee-0b61-462e-b4a0-bf52de6ca8bb)
+- **Path 1**: Prioritizes safety, may be longer.
+- **Path 2**: Balances between safety and distance.
+- **Path 3**: Shortest distance, moderate safety.
 
 ## Conclusion
 
