@@ -83,5 +83,5 @@ This project was created for our course of algorithms and data structures and in
 
 ## Collaborators
 
-- Camilo Bermúdez
-- Luis Baena
+- [Camilo Bermúdez](https://www.github.com/camilobdez)
+- [Luis Baena](https://www.github.com/alejobaenam)
