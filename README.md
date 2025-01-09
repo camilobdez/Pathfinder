@@ -47,18 +47,18 @@ This project aims to provide the shortest and safest path between any two points
 4. Input the coordinates of the start and end points when prompted.
 
 ## Example
-Shortest and safest path between EAFIT and UNAL.
+Shortest and safest path between two points.
 ### Visualization
 
 ![(3 paths) (-75 6298634, 6 3033556)_to_(-75 5780337, 6 1828054)](https://github.com/camilobdez/pathfinder/assets/121780547/6ada00ee-0b61-462e-b4a0-bf52de6ca8bb)
 
 ### Comparison
 
-| Origin | Destination | Distance (meters) | Risk |
-|--------|-------------|--------------------|------|
-| EAFIT  | UNAL        | 9832               | 0.572|
-| EAFIT  | UNAL        | 9401.977           | 0.639|
-| EAFIT  | UNAL        | 9353.253           | 0.704|
+|   Origin   | Destination | Distance (meters) |  Risk  |
+|------------|-------------|-------------------|--------|
+| Red Point  | Green Point | 9832              | 0.572  |
+| Red Point  | Green Point | 9401.977          | 0.639  |
+| Red Point  | Green Point | 9353.253          | 0.704  |
 
 - **Path 1**: Prioritizes safety, may be longer.
 - **Path 2**: Balances between safety and distance.
@@ -73,9 +73,9 @@ The project demonstrates a practical approach to finding the shortest and safest
 - Ma, D. (2020). Preventing Sexual Harassment Through a Path Finding Algorithm Using Nearby Search. Omdena.
 - Gauri, V. and Sandeep, C. (2019). Route-The Safe: A Robust Model for Safest Route Prediction Using Crime and Accidental Data. ResearchGate.
 - Keler, A. and Damascene, J. (2016). Safety-aware routing for motorised tourists based on open data and VGI. ResearchGate.
-- Techie Delight. (2022). Find the shortest path in a maze. Techie Delight.
-- Techie Delight. (2022). Shortest path in a maze – Lee Algorithm. Techie Delight.
-- Pencil Programmer. (2022). Shortest Path in Maze using Backtracking. Pencil Programmer.
+- Techie Delight. (2022). Find the shortest path in a maze.
+- Techie Delight. (2022). Shortest path in a maze – Lee Algorithm.
+- Pencil Programmer. (2022). Shortest Path in Maze using Backtracking.
 - Li, J. and Han, X. (2019). Revised Pulse Algorithm for Elementary Shortest Path Problem with Resource Constraints. Seventh International Symposium on Computing and Networking.
 
 ## Acknowledgements
