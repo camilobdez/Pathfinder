@@ -48,9 +48,10 @@ This project aims to provide the shortest and safest path between any two points
 
 ## Example
 Shortest and safest path between two points.
+
 ### Visualization
 
-![(3 paths) (-75 6298634, 6 3033556)_to_(-75 5780337, 6 1828054)](https://github.com/camilobdez/pathfinder/assets/121780547/6ada00ee-0b61-462e-b4a0-bf52de6ca8bb)
+![3 paths example](https://github.com/user-attachments/assets/9e3dd67e-e0bf-4121-9c89-6a4695948fc1)
 
 ### Comparison
 
