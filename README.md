@@ -57,9 +57,9 @@ Shortest and safest path between two points.
 
 |   Origin   | Destination | Distance (meters) |  Risk  |
 |------------|-------------|-------------------|--------|
-| Red Point  | Green Point | 9832              | 0.572  |
-| Red Point  | Green Point | 9401.977          | 0.639  |
-| Red Point  | Green Point | 9353.253          | 0.704  |
+| Red Point  | Green Point | 9832.01           | 0.572  |
+| Red Point  | Green Point | 9401.97           | 0.639  |
+| Red Point  | Green Point | 9353.25           | 0.704  |
 
 - **Path 1**: Prioritizes safety, may be longer.
 - **Path 2**: Balances between safety and distance.
